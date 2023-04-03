@@ -1,0 +1,4 @@
+﻿  Złożone struktury danych.cpp
+D:\Studia\AiSD\SP2_C\Złożone struktury danych\Złożone struktury danych.cpp(14,39): error C2440: инициализация: невозможно преобразовать "void *" в "bstree *"
+D:\Studia\AiSD\SP2_C\Złożone struktury danych\Złożone struktury danych.cpp(14,15): message : Для преобразования "void*" к указателю на тип, не являющемуся "void", требуется явное приведение
+D:\Studia\AiSD\SP2_C\Złożone struktury danych\Złożone struktury danych.cpp(138,5): error C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
